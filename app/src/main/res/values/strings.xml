@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TriviaTest</string>
+    <string name="triviatest">TriviaTest</string>
+    <string name="textview">Question No :</string>
+    <string name="fal">False</string>
+    <string name="tru">True</string>
+    <string name="questions">questions</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+    <string name="counter_questions">0 out of 100</string>
+    <string name="hello_there">Hello there! All the best</string>
+    <string name="correct_answer">Correct</string>
+    <string name="wrong_answer">Wrong</string>
+    <string name="score_system">0
+    </string>
+    <string name="high_score">Highest Score : 0</string>
+
+</resources>
